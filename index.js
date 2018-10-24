@@ -2,6 +2,6 @@
 const driver = []
 
 function updateDriverWithKeyAndValue(driver, key, value) {
-  const driverCopy = {...driver}
-  return driverCopy
+  name: 'Sam', 
+  address: '11 Broadway'
 }
