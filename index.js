@@ -6,3 +6,6 @@ function updateDriverWithKeyAndValue(driver, key, value) {
   driverCopy.address = "11 Broadway"
   return driverCopy
 }
+function destructivelyUpdateDriverWithKeyAndValue(driver, key, value) {
+  
+}
