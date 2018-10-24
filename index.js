@@ -7,7 +7,6 @@ function updateDriverWithKeyAndValue(driver, key, value) {
   return driverCopy
 }
 function destructivelyUpdateDriverWithKeyAndValue(driver, key, value) {
-  const driver 
   driver.address = "12 Broadway"
   return driver
 }
